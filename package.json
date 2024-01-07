@@ -1,5 +1,5 @@
 {
-  "name": "clearvision",
+  "name": "LoveYou",
   "description": "Highly customizable theme for BetterDiscord.",
   "private": true,
   "scripts": {
@@ -25,7 +25,8 @@
     "NyxIsBad",
     "OmgDani",
     "untuned",
-    "xcruxiex"
+    "xcruxiex",
+    "LoveYou"
   ],
   "license": "Apache-2.0",
   "bugs": {
